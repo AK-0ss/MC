@@ -1,0 +1,29 @@
+LCD Interfacing with 8051.
+Components:
+AT89C51RD2  Microcontroller
+LCD (LM016L)
+Crystal Oscillator 
+Capacitor (30pf-2,10uf-1) 
+Resistor(8.2k-1,10k-11)
+Push Button(SPST)
+
+7 Segment Display
+Components:
+AT89C51RD2 Mircocontroller
+7 Segment Display(7 seg-MPX1-CC)
+Crystal Oscillator
+Capacitor(30pf-2,10uf-1)
+Resistor(10k-1,100 ohm-8)
+Push Button (SPST)
+
+
+DC Motor
+Components:
+AT89C51RD2 Micro controller
+L293D(Motor Driver)
+DC Motor( Simple DC Motor Model)
+Crystal Oscillator
+Capacitor(30pf-2,10uf-1)
+Resistor(10k-1)
+Push Button (SPST)
+Resistor(NTSAOXR502,NTC)
